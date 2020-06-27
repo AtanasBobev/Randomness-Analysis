@@ -1,0 +1,2 @@
+library(datasets)
+plot(rnorm(100)*100,rnorm(100)*100,xlab='X axis',ylab='Y axis',col='red')
