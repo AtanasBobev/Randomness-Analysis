@@ -9,8 +9,8 @@ Below is an example of a normal distribution with 1 000 000 points, each with ra
 ![alt text](https://i.imgur.com/TObX4KB.jpg)
 
 Below is an example of a uniform distribution with 100 points, each with random X and Y coordinates.
-![alt text](https://i.imgur.com/undefined.jpeg)
+![alt text](https://i.imgur.com/72Bx1LJ.jpg)
 
 
 Below is an example of a uniform distribution with 1 000 000 points, each with random X and Y coordinates.
-![alt text](blob:https://imgur.com/e12329d7-7100-4fa8-8b68-b9cc244bdc0b)
+![alt text](https://i.imgur.com/RpyYH6X.jpg)
