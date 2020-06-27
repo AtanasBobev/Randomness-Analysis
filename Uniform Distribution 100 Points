@@ -1,0 +1,2 @@
+library(datasets)
+plot(runif(100)*100,runif(100)*100,xlab='X axis',ylab='Y axis',col='red')
